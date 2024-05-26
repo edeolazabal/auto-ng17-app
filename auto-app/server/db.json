@@ -1,0 +1,19 @@
+{
+  "autos": [
+    {
+      "id": "1",
+      "brand": "Subaru",
+      "price": 18000
+    },
+    {
+      "id": "2",
+      "brand": "Mazda",
+      "price": 23000
+    },
+    {
+      "id": 0,
+      "brand": "Tico",
+      "price": 3000
+    }
+  ]
+}
